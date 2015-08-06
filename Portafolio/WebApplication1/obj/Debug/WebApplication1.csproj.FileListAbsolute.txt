@@ -1,0 +1,12 @@
+c:\users\alumnos\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\alumnos\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\alumnos\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\alumnos\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Alumnos\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Eduardo\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Eduardo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Eduardo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Eduardo\Desktop\WebApplication1\WebApplication1\bin\CapaDatos.dll
+C:\Users\Eduardo\Desktop\WebApplication1\WebApplication1\bin\CapaDatos.pdb

@@ -1,0 +1,4 @@
+C:\Users\Eduardo\Desktop\WebApplication1\capDatos\bin\Debug\capDatos.dll
+C:\Users\Eduardo\Desktop\WebApplication1\capDatos\bin\Debug\capDatos.pdb
+C:\Users\Eduardo\Desktop\WebApplication1\capDatos\obj\Debug\capDatos.dll
+C:\Users\Eduardo\Desktop\WebApplication1\capDatos\obj\Debug\capDatos.pdb
