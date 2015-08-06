@@ -1,0 +1,7 @@
+C:\Users\Eduardo\Desktop\WebApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Eduardo\Desktop\WebApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Eduardo\Desktop\WebApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Eduardo\Desktop\WebApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Eduardo\Desktop\WebApplication1\ConsoleApplication1\bin\Debug\CapaEntidades.dll
+C:\Users\Eduardo\Desktop\WebApplication1\ConsoleApplication1\bin\Debug\CapaEntidades.pdb
+C:\Users\Eduardo\Desktop\WebApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

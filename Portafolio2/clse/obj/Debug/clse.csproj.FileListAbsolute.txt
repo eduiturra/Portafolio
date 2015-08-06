@@ -1,0 +1,4 @@
+C:\Users\Eduardo\Desktop\WebApplication2\clse\bin\Debug\clse.dll
+C:\Users\Eduardo\Desktop\WebApplication2\clse\bin\Debug\clse.pdb
+C:\Users\Eduardo\Desktop\WebApplication2\clse\obj\Debug\clse.dll
+C:\Users\Eduardo\Desktop\WebApplication2\clse\obj\Debug\clse.pdb

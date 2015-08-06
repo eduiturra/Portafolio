@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Desktop\WebApplication1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Eduardo\Desktop\WebApplication1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Eduardo\Desktop\WebApplication1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Eduardo\Desktop\WebApplication1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Eduardo\Desktop\WebApplication1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\WebApplication1\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Eduardo\Desktop\WebApplication1\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Eduardo\Desktop\WebApplication2\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\WebApplication2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Eduardo\Desktop\WebApplication2\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Eduardo\Desktop\WebApplication2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Eduardo\Desktop\WebApplication2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Eduardo\Desktop\WebApplication2\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Eduardo\Desktop\WebApplication2\CapaDatos\bin\Debug\CapaEntidades.pdb
